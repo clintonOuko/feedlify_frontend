@@ -1,0 +1,1 @@
+App.js >> convert function to an arrow function 
